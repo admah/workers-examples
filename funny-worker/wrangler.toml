@@ -1,0 +1,4 @@
+name = "funny-worker"
+main = "index.js"
+compatibility_date = "2023-05-03"
+
