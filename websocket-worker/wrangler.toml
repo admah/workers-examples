@@ -1,0 +1,4 @@
+name = "websocket-worker-template"
+compatibility_date = "2023-05-02"
+main = "index.js"
+
