@@ -1,0 +1,9 @@
+{
+  "name": "access-worker-test",
+  "version": "0.0.0",
+  "main": "./index.js",
+  "devDependencies": {
+    "wrangler": "2.18.0"
+  },
+  "private": true
+}
