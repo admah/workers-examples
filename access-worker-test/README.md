@@ -4,6 +4,8 @@ An example of how a Worker can validate and interact with Cloudflare Access JWT.
 
 This is a rewrite of the Cloudflare Access Pages Plugin found [here](https://developers.cloudflare.com/pages/platform/functions/plugins/cloudflare-access/).
 
+Demo can be seen [here](https://access-worker-test.admah.workers.dev/).
+
 ## Instructions
 
 This worker contains four functions for demo purposes:
